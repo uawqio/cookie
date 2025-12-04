@@ -1,0 +1,37 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<base href="/system/">
+<title>DashNet | 404!</title>
+<!--
+Code and graphics copyright Orteil, 2022
+Feel free to alter this code to your liking, but please do not re-host it, do not profit from it and do not present it as your own.
+-->
+
+<link rel="shortcut icon" href="img/favicon.ico" />
+<link href="lib/style.css?v=2" rel="stylesheet" type="text/css">
+<link href="style.css?v=2" rel="stylesheet" type="text/css">
+<style type="text/css">@font-face {font-family:Oswald;font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.0.18/cyrillic/400/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.0.18/vietnamese/400/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.0.18/cyrillic-ext/400/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.0.18/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Oswald;font-style:normal;font-weight:400;src:url(/cf-fonts/s/oswald/5.0.18/latin-ext/400/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+<style type="text/css">@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/latin/400/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/latin-ext/400/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/vietnamese/400/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/cyrillic/400/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/cyrillic-ext/400/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/greek/400/normal.woff2);unicode-range:U+0370-03FF;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:400;src:url(/cf-fonts/s/roboto-slab/5.0.18/greek-ext/400/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/cyrillic-ext/700/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/cyrillic/700/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/latin/700/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/latin-ext/700/normal.woff2);unicode-range:U+0100-02AF,U+0304,U+0308,U+0329,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/greek-ext/700/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/vietnamese/700/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:Roboto Slab;font-style:normal;font-weight:700;src:url(/cf-fonts/s/roboto-slab/5.0.18/greek/700/normal.woff2);unicode-range:U+0370-03FF;font-display:swap;}</style>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+<div id="wrap" class="inFrame">
+	<div id="mainBox">
+		<div id="subtitle"><a href="http://www.dashnet.org" target="_top">&lt; back</a></div>
+		<div id="title">404!</div>
+		<div id="subtitle">whoops</div>
+		<div class="blurb">
+			<div class="block">
+			<p>Either you typed a url wrong (that's on you!) or we messed up somewhere (that's our bad, please <a href="https://orteil42.tumblr.com">let us know</a>!).</p>
+			<p>Not sure where to go? You could check out our <a href="https://www.dashnet.org" target="_top">homepage</a> for some pretty neat stuff.</p>
+			</div>
+		</div>
+		<div id="credits">&copy; <a href="https://orteil.dashnet.org" target="_top">Orteil</a>, 2022 - <a href="https://dashnet.org" target="_top">DashNet</a></div>
+	</div>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"bb95ad56b18d4ea6bbf1f664862b75a2","server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>
